@@ -1,6 +1,6 @@
 {
-  "name": "starbug/package-template",
-  "description": "Starbug package template",
+  "name": "starbug/bundle",
+  "description": "A simple object abstraction for working with nested array structures.",
   "authors": [
     {
       "name": "Ali Gangji",
