@@ -1,0 +1,23 @@
+{
+  "name": "starbug/package-template",
+  "description": "Starbug package template",
+  "authors": [
+    {
+      "name": "Ali Gangji",
+      "homepage": "https://github.com/cogentParadigm"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "7.1"
+    }
+  },
+  "require-dev": {
+    "starbug/devel": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Starbug\\Bundle\\": "src/"
+    }
+  }
+}
