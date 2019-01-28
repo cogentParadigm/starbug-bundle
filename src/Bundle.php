@@ -1,6 +1,8 @@
 <?php
 namespace Starbug\Bundle;
 
+use ArrayIterator;
+
 class Bundle implements BundleInterface {
   protected $data;
 
